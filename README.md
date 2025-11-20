@@ -28,7 +28,7 @@ Delete branch:
 
     git branch -d <branch_name>
 
-List changed files:
+Show actual changes:
 
     git status
 
@@ -40,7 +40,7 @@ Commit all stages:
 
     git commit -a
 
-Show list of commits:
+Show commits history:
 
     git log --oneline
     git log --graph --all --decorate --abbrev-commit
