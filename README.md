@@ -1,3 +1,10 @@
+# Set global configuration
+
+    git config --global user.name "Qwe Rty"
+    git config --global user.email qwe@rty.com
+
+
+
 # Initiate repo
 
     git init --bare __repo__.git
